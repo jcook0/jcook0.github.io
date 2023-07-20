@@ -9,7 +9,7 @@ Hi, welcome to my blog. I enjoy programming, math, tech, and music.
 
 ### More Information
 
-I'm currently a university student pursuing a computer science degree. 
+nothing atm
 
 ### Contact me
 
