@@ -7,10 +7,4 @@ This is my first blog post.
 
 ### h3
 
-**bold** 
-
-
-
-
-
-
+**bold**
