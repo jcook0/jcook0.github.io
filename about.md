@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Hi, welcome to my blog. I enjoy programming, math, tech, and music.
+Hi, welcome to my blog.
 
 ### More Information
 
