@@ -1,13 +1,13 @@
 ---
 published: true
 ---
-My first blog post.
+This is my first blog post.
 
 ## h2
 
 ### h3
 
-**** bold
+**bold** 
 
 
 
