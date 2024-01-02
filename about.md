@@ -5,9 +5,8 @@ permalink: /about/
 published: true
 ---
 
-Hi, welcome to my jekyll blog.
+Hi, welcome to my blog. My posts are meant to share ideas I find useful. 
 
 ### More Information
 
-nothing atm
-
+More information to come.
