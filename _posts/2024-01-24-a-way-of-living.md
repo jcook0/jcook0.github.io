@@ -4,7 +4,7 @@ published: true
 > "It's not the destination, it's the journey" 
 	- Ralph Waldo Emerson
 	
-You've probably seen this quote before. It has really stuck with me because of the meaning behind it. 
+You've probably seen this quote before. Recently, it has really stuck with me because of the meaning behind it. 
 
 I used to believe "If I could earn X amount of money, then I'd finally be happy" or "If I could get through X, I'd be happy." However, there is a flaw with this mindset. Happiness is not a tangible pursuit. We have moments of happiness, but it always comes and goes. Similarly, we experience joy one day but may feel sadness the next. Unfortunately, there is no way to permanently alter our mood/emotional state (at least for now; see [wireheading](https://en.wikipedia.org/wiki/Wirehead_(science_fiction))). 
 
