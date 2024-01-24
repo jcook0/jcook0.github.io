@@ -6,7 +6,7 @@ published: true
 	
 You've probably seen this quote before. It has really stuck with me because of the meaning behind it. 
 
-I used to believe "If I could earn X amount of money, then I'd finally be happy" or "If I could get through X, I'd be happy." However, there is a flaw with this mindset. Happiness is not a tangible pursuit. We have moments of happiness, but it always comes and goes. Similarly, we experience joy one day but may feel sadness the next. Unfortunately, there is no way to permanently alter our mood/emotional state (at least for now; see wireheading). 
+I used to believe "If I could earn X amount of money, then I'd finally be happy" or "If I could get through X, I'd be happy." However, there is a flaw with this mindset. Happiness is not a tangible pursuit. We have moments of happiness, but it always comes and goes. Similarly, we experience joy one day but may feel sadness the next. Unfortunately, there is no way to permanently alter our mood/emotional state (at least for now; see [wireheading](https://en.wikipedia.org/wiki/Wirehead_(science_fiction))). 
 
 In modern times, we often artificially manipulate our emotions in order to make us feel how we want immediately. Whether it's cheering ourselves up after a gloomy day by watching YouTube, seeking feelings of lust through pornography, or using alcohol and drugs to suppress worries, these activities provide self-gratification. While these activities might be fine in moderation, they can easily become problematic when we ignore their reality. They don't serve our well-being; they are acts to satisfy our emotional desires, and indulging in them only grows our desires insatiably.
 
