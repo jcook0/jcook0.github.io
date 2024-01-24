@@ -2,7 +2,6 @@
 published: true
 ---
 > "It's not the destination, it's the journey" 
-
 	- Ralph Waldo Emerson
 	
 You've probably seen this quote before. Recently, it has really stuck with me because of its meaning. 
