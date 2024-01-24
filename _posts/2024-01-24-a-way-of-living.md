@@ -2,6 +2,7 @@
 published: true
 ---
 > "It's not the destination, it's the journey" 
+
 	- Ralph Waldo Emerson
 	
 You've probably seen this quote before. Recently, it has really stuck with me because of its meaning. 
@@ -13,5 +14,3 @@ In modern times, we often artificially manipulate our emotions in order to make 
 So instead of living in the pursuit of happiness, we should seek the Truth at every moment. Truth is based on reality and objectivity in the world. Truth is the experiences we have, what we know deep down, and the things we do. It serves as the best self-evident reference point for viewing our lives. Detaching ourselves from the world leads to a loss of grip on Truth.
 
 Perhaps a "happy" life is actually a life where one acts on their Truth.
-
-
