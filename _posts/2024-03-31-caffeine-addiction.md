@@ -4,7 +4,7 @@ Caffeine, a mild cognitive enhancer, and natural stimulant is a widely used drug
  
 Low Dose (20-200 mg):
 - Increased alertness and wakefulness
-- Improved concentration and focus and Enhanced mood
+- Improved concentration and focus and enhanced mood
 - Increased heart rate
 - Mild diuretic effect (Increased urination)
 - Slight increase in blood pressure
