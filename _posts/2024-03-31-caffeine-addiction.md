@@ -1,5 +1,3 @@
-## Caffeine Addiction 
-
 Do the benefits of caffeine addiction outweigh the downsides? If that is true then what is the best usage of caffeine for getting all of its positive effects with minimal side effects?
  
 Caffeine, a mild cognitive enhancer, and natural stimulant is a widely used drug with about 90% US adults of being daily caffeine users. Commonly, it is consumed in the form of a morning coffee a sugary energy drink, or a soda beverage. It can also be found in many foods, such as coffee beans, tea leaves, coffee beans, guarana berries, and yerba mate leaves. According to the FDA, 400 mg of caffeine a day appears to be safe for most healthy adults. That amount of caffeine is about four cups of brewed coffee per day. Below we can see the effects at different dosage levels. These effects vary between individuals depending on their metabolism, tolerance, and overall health.
